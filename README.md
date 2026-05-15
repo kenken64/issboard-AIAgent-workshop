@@ -1,4 +1,4 @@
-# issboard-AIAgent-workshop
+# ISS Board AI Agentic Workshop (Openclaw , Hermes)
 
 Starter repository for the ISS Board AI Agent workshop.
 
